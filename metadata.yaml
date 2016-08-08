@@ -1,0 +1,33 @@
+_repo: Narrative-of-the-Voyage-of-H.M.S.-Rattlesnake-Commanded-By-the-Late-Captain-Owen-Stanley-R.N.__12525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacGillivray, John
+    birthdate: 1822
+    deathdate: 1867
+    gutenberg_agent_id: '4367'
+    url: http://www.gutenberg.org/2009/agents/4367
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stanley, Owen'
+- !lcc 'DU'
+- !lcsh 'Kennedy, Edmund Besley Court, 1818-1848'
+- !lcsh 'Oceania -- Description and travel'
+- !lcsh 'Natural history -- Oceania'
+- !lcsh 'Rattlesnake (Ship)'
+- GITenberg
+title: "Narrative of the Voyage of H.M.S. Rattlesnake, Commanded By the Late Captain\
+  \ Owen Stanley, R.N., F.R.S. Etc. During the Years 1846-1850.\r\nIncluding Discoveries\
+  \ and Surveys in New Guinea, the Louisiade Archipelago, Etc. to Which Is Added the\
+  \ Account of Mr. E.B. Kennedy's Expedition for the Exploration of the Cape York\
+  \ Peninsula. By John Macgillivray, F.R.G.S. Naturalist to the Expedition. — Volume\
+  \ 2"
+url: http://www.gutenberg.org/ebooks/12525
