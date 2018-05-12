@@ -1,5 +1,8 @@
 _repo: Narrative-of-the-Voyage-of-H.M.S.-Rattlesnake-Commanded-By-the-Late-Captain-Owen-Stanley-R.N.__12525
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacGillivray, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4367'
     url: http://www.gutenberg.org/2009/agents/4367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12525#Narrative-of-the-Voyage-of-H.M.S.-Rattlesnake-Commanded-By-the-Late-Captain-Owen-Stanley-R.N._
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
